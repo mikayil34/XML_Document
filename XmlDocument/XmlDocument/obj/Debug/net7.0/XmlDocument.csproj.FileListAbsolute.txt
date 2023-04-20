@@ -1,0 +1,15 @@
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\bin\Debug\net7.0\XmlDocument.exe
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\bin\Debug\net7.0\XmlDocument.deps.json
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\bin\Debug\net7.0\XmlDocument.runtimeconfig.json
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\bin\Debug\net7.0\XmlDocument.dll
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\bin\Debug\net7.0\XmlDocument.pdb
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.csproj.AssemblyReference.cache
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.AssemblyInfoInputs.cache
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.AssemblyInfo.cs
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.csproj.CoreCompileInputs.cache
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.dll
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\refint\XmlDocument.dll
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.pdb
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\XmlDocument.genruntimeconfig.cache
+D:\Git_Works\xml Documant\XmlDocument\XmlDocument\obj\Debug\net7.0\ref\XmlDocument.dll
